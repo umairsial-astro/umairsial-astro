@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | Umair Sial</title>
+</head>
+
+<body>
+
+<h1>Contact</h1>
+
+<nav>
+  <a href="index.html">About</a> |
+  <a href="research.html">Research</a> |
+  <a href="cv.html">CV</a> |
+  <a href="outreach.html">Outreach</a> |
+  <a href="resources.html">Resources</a> |
+  <a href="contact.html">Contact</a>
+</nav>
+
+<hr>
+
+<h2>Get in Touch</h2>
+
+<p>
+For astronomy, physics, science communication, collaboration,
+or X HORIZON-related inquiries, you can contact me through:
+</p>
+
+<p>
+<strong>Email:</strong>
+<a href="mailto:xhorizon8.0@gmail.com">
+xhorizon8.0@gmail.com
+</a>
+</p>
+
+<p>
+<strong>GitHub:</strong>
+<a href="https://github.com/umairsial-astro" target="_blank">
+github.com/umairsial-astro
+</a>
+</p>
+
+<p>
+<strong>X HORIZON:</strong>
+<a href="https://xhorizon.odoo.com/" target="_blank">
+xhorizon.odoo.com
+</a>
+</p>
+
+</body>
+</html>
