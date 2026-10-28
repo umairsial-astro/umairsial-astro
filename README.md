@@ -1,87 +1,69 @@
-Umair Sial
+# Umair Sial
 
-Physics Undergraduate @ PIEAS | Astronomy & Astrophysics | Space Science
+**BS Physics Undergraduate at PIEAS | Astronomy and Astrophysics | Space Science | Founder of X HORIZON**
 
-Exploring physics, astronomy, computation, and the universe beyond the horizon.
+I am a physics undergraduate at the Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad, interested in astronomy, astrophysics, space science, theoretical physics, and scientific computing. I am developing my foundations in physics and mathematics while building projects that connect scientific concepts with data, computation, and space exploration.
 
-About Me
+## About
 
-I'm a Physics undergraduate at the Pakistan Institute of Engineering and Applied Sciences (PIEAS) with a strong interest in astronomy, astrophysics, space science, and computational physics.
+My interests span astronomical systems, physical processes in the Universe, scientific programming, and the use of computational tools to investigate real scientific questions. I value clear explanations, reproducible work, and making scientific knowledge more accessible.
 
-I'm currently developing my knowledge in physics, mathematics, scientific programming, and astronomy while building projects that connect theoretical concepts with real astronomical data and applications.
+## Current Focus
 
-What I'm Working On
+- Astronomy and astrophysics
+- Space science and exploration
+- Physics and computational physics
+- Python for scientific computing
+- Scientific data analysis and visualization
+- Physics simulations and space-related projects
 
-🔭 Astronomy & astrophysics
+## X HORIZON
 
-🌌 Space science and exploration
+**Explore Nature Beyond the Horizon**
 
-⚛️ Physics and computational physics
+[X HORIZON](https://xhorizon.odoo.com/) is an astronomy and space-science learning ecosystem I founded to make scientific learning more accessible. Its vision is to connect structured education, practical skills, projects, simulations, scientific resources, and community in one environment.
 
-🐍 Python for scientific computing
+The platform is designed around two connected parts: a main website that serves as the gateway to the ecosystem, and a dedicated study environment for organized learning materials. The Concepts learning system begins with 17 astronomy and space-science terminology categories, each offering Beginner, Normal, and Advanced levels. Learners study articles and complete written assessments to unlock subsequent lessons. Category completion earns a unique certificate, while completion across all categories qualifies learners for a broader achievement certificate.
 
-📊 Scientific data analysis and visualization
+The wider ecosystem extends beyond lessons to Skills, Python Learning, Learning Paths, practical exercises, projects, simulations, mission and space-science resources, and community participation. Its guiding model is **Learn, Practice, Build, Progress**.
 
-🚀 Space-related projects and simulations
+X HORIZON is intended to keep learning and certificates free of charge, without paid course subscriptions or paywalls. Voluntary donations may support the project, but access is not meant to depend on payment.
 
-🌍 Building X HORIZON — Explore Nature Beyond the Horizon
+- **Website:** [xhorizon.odoo.com](https://xhorizon.odoo.com/)
+- **Project records and repository:** [X HORIZON Records](https://github.com/umairsial-astro/X-HORIZON-Records)
+- **Instagram:** [@xhorizon8.0](https://www.instagram.com/xhorizon8.0/)
+- **Email:** xhorizon8.0@gmail.com
 
-X HORIZON
+## Currently Learning
 
-X HORIZON is an astronomy-focused ecosystem I founded to make astronomy and space science more accessible through learning, practice, projects, visual exploration, and community.
+- Classical physics
+- Calculus and linear algebra
+- Python and scientific computing
+- Astronomy and astrophysics
+- Data analysis and visualization
 
-Mission:
+## Areas of Interest
 
-Explore Nature Beyond the Horizon.
+Astronomy, astrophysics, exoplanets, stellar physics, cosmology, space science, theoretical physics, scientific computing, Python, and astronomical data analysis.
 
-🌐 https://xhorizon.odoo.com/
+## Projects
 
-Currently Learning
+- **X HORIZON:** An accessible learning ecosystem for astronomy and space science.
+- **Scientific Python:** Developing skills in calculations, plotting, numerical experiments, and data analysis.
+- **Physics Simulations:** Exploring physical systems through equations, numerical methods, and visualizations.
+- **Astronomy Data Exploration:** Building toward reproducible investigations using public astronomical datasets.
+- **Project Records:** [X HORIZON Records](https://github.com/umairsial-astro/X-HORIZON-Records)
 
-Classical Physics
+Projects will be documented as they develop, with methods, assumptions, and results described where applicable.
 
-Calculus
+## Collaboration
 
-Linear Algebra
+I welcome thoughtful collaboration with students, educators, researchers, developers, astronomy enthusiasts, and science communicators interested in physics, space science, open learning, and meaningful technical projects.
 
-Python
+## Contact
 
-Scientific Computing
+- **Email:** xhorizon8.0@gmail.com
+- **GitHub:** [umairsial-astro](https://github.com/umairsial-astro)
+- **X HORIZON:** [xhorizon.odoo.com](https://xhorizon.odoo.com/)
 
-Astronomy
-
-Astrophysics
-
-Data Analysis
-
-Areas of Interest
-
-Astronomy Astrophysics Space Science Physics Scientific Computing Python Data Analysis Exoplanets Stellar Physics Cosmology
-
-Projects
-
-More projects will be added as I build and document them.
-
-🔭 Astronomy projects
-
-⚛️ Physics simulations
-
-🐍 Scientific Python projects
-
-🌌 Astronomical data analysis
-
-🚀 Space-science projects
-
-🌍 X HORIZON projects
-
-Collaboration
-
-I'm interested in connecting with students, educators, researchers, astronomy enthusiasts, developers, and space-science communities interested in building meaningful projects and sharing knowledge.
-
-Contact
-
-Founder — X HORIZON
-
-📧 xhorizon8.0@gmail.com
-
-Learning physics. Building projects. Exploring the universe.
+*Learning physics, building projects, and exploring the Universe.*
